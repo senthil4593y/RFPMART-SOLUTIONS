@@ -123,7 +123,7 @@
 					<li class="usa-nav__primary-item">
 						<button
 							type="button"
-							class="usa-accordion__button usa-nav__link usa-current"
+							class="usa-accordion__button usa-nav__link"
 							aria-expanded="false"
 							aria-controls="basic-nav-section-one">
 							<span>Templates Home</span>
@@ -138,6 +138,32 @@
 						</ul>
 					</li>
 
+					<li class="usa-nav__primary-item">
+						<button
+							type="button"
+							class="usa-accordion__button usa-nav__link usa-current"
+							aria-expanded="false"
+							aria-controls="basic-nav-section-six">
+							<span>New Template</span>
+						</button>
+						<ul id="basic-nav-section-six" class="usa-nav__submenu">
+							<li class="usa-nav__submenu-item">
+								<a href="landing.html">Landing</a>
+							</li>
+							<li class="usa-nav__submenu-item">
+								<a href="services.html">Service</a>
+							</li>
+							<li class="usa-nav__submenu-item">
+								<a href="contact.html">Contact</a>
+							</li>
+							<li class="usa-nav__submenu-item">
+								<a href="pricing.html">Pricing</a>
+							</li>
+						</ul>
+					</li>
+
+
+					
 					<li class="usa-nav__primary-item">
 						<button
 							type="button"
