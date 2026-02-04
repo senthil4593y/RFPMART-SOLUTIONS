@@ -148,16 +148,16 @@
 						</button>
 						<ul id="basic-nav-section-six" class="usa-nav__submenu">
 							<li class="usa-nav__submenu-item">
-								<a href="landing.html">Landing</a>
+								<a href="./landing.html">Landing</a>
 							</li>
 							<li class="usa-nav__submenu-item">
-								<a href="services.html">Service</a>
+								<a href="./services.html">Service</a>
 							</li>
 							<li class="usa-nav__submenu-item">
-								<a href="contact.html">Contact</a>
+								<a href="./contact.html">Contact</a>
 							</li>
 							<li class="usa-nav__submenu-item">
-								<a href="pricing.html">Pricing</a>
+								<a href="./pricing.html">Pricing</a>
 							</li>
 						</ul>
 					</li>
